@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gerardnagarajan.r@northeastern.edu**
 
-- 📄 Know about my experiences **https://tinyurl.com/RP-Resume**
+- 📄 Check my experiences **https://tinyurl.com/RP-Resume**
 
 - 🤝 I’m looking for internship opportunities in **Data Engineering / Big Data Analytics / BI Engineering**
 <p><br></p>
