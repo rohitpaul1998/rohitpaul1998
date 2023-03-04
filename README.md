@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Engineering projects**
 
-- 👨‍💻 All of my projects are available at **https://github.com/rohitpaul1998**
+- 👨‍💻 All of my projects are available at **https://alias.live/aUL9IH**
 
 - 🌱 I’m currently learning **Data Warehousing**
 
