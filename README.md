@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Engineering projects**
 
-- 👨‍💻 All of my projects are available at **https://tinyurl.com/DE-projects**
+- 👨‍💻 Current projects are available at **https://tinyurl.com/DE-projects**
 
 - 🌱 I’m currently learning **Data Warehousing**
 
