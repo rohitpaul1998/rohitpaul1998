@@ -4,19 +4,19 @@
 <p><br></p>
 <img align="right" alt="Coding" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
 
-- 🔭 I’m currently working on **Real-Time Data Pipeline for Social Media Analytics**
+- 🔭 I’m currently working on **Data Engineering projects**
 
 - 👨‍💻 All of my projects are available at **https://github.com/rohitpaul1998**
 
-- 🌱 I’m currently learning **Analytical Data Architecture and Data Warehousing**
-
-- 🤝 I’m looking for internship opportunities in **Data Engineering / Data Warehousing / Big Data Analytics / BI Engineering**
+- 🌱 I’m currently learning **Data Warehousing**
 
 - ⚡ Fun fact: I've become sort of a night owl these days
 
 - 📫 How to reach me **gerardnagarajan.r@northeastern.edu**
 
 - 📄 Know about my experiences **(insert tinyurl link for resume)**
+
+- 🤝 I’m looking for internship opportunities in **Data Engineering / Big Data Analytics / BI Engineering**
 <p><br></p>
 
 <h3 align="left">Connect with me:</h3>
