@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">I am a Masters student at Northeastern University. I regularly update my GitHub profile repositories with innovative and exciting projects, posts and ideas. My major concentration is in Big Data Analytics and my passion towards Data develops after every project that I take on. Outside of my concentration, I have taken classes in Application Engineering and Accounting. I hope to align my technical skills on Data Warehousing and Business Intelligence in real-world projects and hence, I am looking for Summer '23 internship opportunities. Feel free to send me an email if you want to talk.</h3>
 <p><br></p>
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
 
 - 🔭 I’m currently working on **Real-Time Data Pipeline for Social Media Analytics**
 
