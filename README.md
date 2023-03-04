@@ -1,6 +1,6 @@
-### Hi 👋, I'm Rohit
+# Hi 👋, I'm Rohit
 
-# 💫 About Me
+##  💫 About Me
 🔭 I’m currently working on implementing my skills in Data Architecture<br>🌱 I’m currently learning Analytical Data Architecture and Data Warehousing<br>🤝 I’m looking for internship opportunities in Data Engineering / Data Warehousing / Data Analyst / BI Engineer<br>👨‍💻 All of my projects are available at https://github.com/rohitpaul1998<br>📫 How to reach me gerardnagarajan.r@northeastern.edu<br>📄 Know about my experiences (insert tinyurl link of resume)<br>⚡ Fun fact: I've become a full blown night owl these days
 
 
