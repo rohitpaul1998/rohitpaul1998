@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gerardnagarajan.r@northeastern.edu**
 
-- 📄 Know about my experiences **(insert tinyurl link for resume)**
+- 📄 Know about my experiences **https://alias.live/aUL9II**
 
 - 🤝 I’m looking for internship opportunities in **Data Engineering / Big Data Analytics / BI Engineering**
 <p><br></p>
