@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on **Data Engineering projects**
 
-- 👨‍💻 My Data Analysis projects **https://tinyurl.com/DE-projects**
+- 👨‍💻 My Data Analysis projects **https://tinyurl.com/rp-Analysis**
+
+- 👨‍💻 My Data Engineering projects **https://tinyurl.com/rp-DEng**
 
 - 🌱 I’m currently learning **Data Warehousing**
 
